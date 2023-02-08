@@ -9,6 +9,7 @@ public class Main {
         System.out.println("This is a test");
         System.out.println("test");
         System.out.println("new merge test");
+        System.out.println("This is another test of a branch that we will merge");
 
     }
 }
