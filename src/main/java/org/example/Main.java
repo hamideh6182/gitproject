@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello Hamideh and Daniel");
         System.out.println("Hello you two!");
         System.out.println("This is a test");
+        System.out.println("This is another test of a branch that we will merge");
 
     }
 }
